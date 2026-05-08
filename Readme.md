@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png" width="250" height="250" alt="TOM-MINI-X">
 </p>
 
-<h1 align="center">💠 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐌𝐈𝐍𝐈 💠</h1>
+<h1 align="center">💠 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐌𝐈𝐍𝐈-𝐁𝐎𝐓 💠</h1>
 
 <p align="center">
   <b>"Unleash the Power of Minimalism."</b><br>
@@ -69,11 +69,11 @@ TOM-PRIME-X-MINI/
 🧩 𝐒𝐄𝐓𝐔𝐏 & 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
 ​Before deploying, make sure to set the following Environment Variables:
 # Mandatory Variables
-SESSION_ID   = "YOUR_SESSION_ID"
+OWNER_NUMNER   = "YOUR_BOT_NUMBER"
 PREFIX       = "."
 BOT_NAME     = "𝐓𝐎𝐌 𝐌𝐈𝐍𝐈 𝐗"
 OWNER_NAME   = "𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐓𝐎𝐌"
-OWNER_NUMBER = "880**********"
+OWNER_NUMBER = "880**********" [YOUR BOT NUMBER]
 
 # Optional Settings
 MODE         = "public"   # 'public' or 'self'
