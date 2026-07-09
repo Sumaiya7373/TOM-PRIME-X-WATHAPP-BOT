@@ -4,19 +4,19 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['8801791903810'], // Your Bot number without + or spaces
-    ownerName: ['Tom Prime X'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['8801347300095'], // Your Bot number without + or spaces
+    ownerName: ['⎯͢✧𝐒ʜᴀʜɪɴ 𝐑ᴀɴᴀꫝᥫ᭡'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Tom Bot Mini',
+    botName: '*🌷𝐗-𝐒ʜꫝʜɪɴ 𝐑ᴀɴꫝᥫ᭡*',
     prefix: '.',
     sessionName: '𝐱-мιηι-вσт-typy258toxicevilbrand25780533',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363403719538106@newsletter',
+    newsletterJid: '120363429830985012@newsletter',
     updateZipUrl: 'https://github.com/TOM-PRIME-X-MINI-BOT/TOM-PRIME-X-WATHAPP-BOT/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Tom Bot Mini',
+    packname: '𝐗-𝐒ʜꫝʜɪɴ🌷',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
